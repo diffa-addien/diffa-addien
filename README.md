@@ -25,7 +25,7 @@ I am a bachelor of computer science from <a href="https://www.unila.ac.id/">Univ
 <a href="https://getbootstrap.com/">
   <img align="left" alt="Boostrap" title="Boostrap" width="40px" src="https://img.icons8.com/color-glass/50/bootstrap.png" />
 </a>
-<br>
+<br><br/>
 
 ### Backend
 
@@ -48,7 +48,7 @@ I am a bachelor of computer science from <a href="https://www.unila.ac.id/">Univ
   <img align="left" alt="MongoDB" title="MongoDB" width="40px" src="https://img.icons8.com/color/48/mongo-db.png" />
 </a>
 
-<br/>
+<br/><br/>
 
 ### Tools
 <a href="https://git-scm.com/">
@@ -72,6 +72,9 @@ I am a bachelor of computer science from <a href="https://www.unila.ac.id/">Univ
 </a>
 <br><br>
 
-## 📊 My Github Stats
+## My Github Stats
 
 <a href="https://github.com/RafyMrX/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=diffa-addien&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,eff,eff,eff,eee&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafyMrX&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,eee,dddddd,dddddd&theme=graywhite" /></a>
+
+<br>
+Icons by <a href="https://icons8.com/" target="_blank">Icons8</a><br>
