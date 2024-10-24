@@ -6,7 +6,6 @@ I am a bachelor of computer science from <a href="https://www.unila.ac.id/">Univ
 ## Technologies 
 
 ### Frontend 
-
 <div>
   <a href="#">
     <img align="left" alt="HTML" title="HTML" width="40px" src="https://img.icons8.com/color/48/html-5.png" />
@@ -29,7 +28,6 @@ I am a bachelor of computer science from <a href="https://www.unila.ac.id/">Univ
 </div><br/>
 
 ### Backend
-
 <div>
   <a href="https://www.php.net/">
     <img align="left" alt="PHP" title="PHP" width="45px" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-php-social-media-tanah-basah-glyph-tanah-basah.png" />
@@ -73,11 +71,5 @@ I am a bachelor of computer science from <a href="https://www.unila.ac.id/">Univ
     <img align="left" alt="Google web.dev tools" title="Google web.dev tools" height="43px" src="https://www.gstatic.com/devrel-devsite/prod/v1d4a4bce9a6f1ad12c0dbb886d406b5bcfdf3882f3026512eb5f609d55157b5b/web/images/lockup.svg" />
   </a>
 </div>
-<br/><br/>
-
-## My Github Stats
-
-<a href="https://github.com/diffa-addien/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=diffa-addien&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,eff,eff,eff,eee&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafyMrX&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,eee,dddddd,dddddd&theme=graywhite" /></a>
-
-<br>
+<br/><br/><br/>
 Icons by <a href="https://icons8.com/" target="_blank">Icons8</a><br>
